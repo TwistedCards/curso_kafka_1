@@ -12,3 +12,7 @@
 [2022-06-22 17:55:48,382] INFO [kafka-log-cleaner-thread-0]: Shutdown completed (kafka.log.LogCleaner)
 [2022-06-23 09:59:32,991] INFO Starting the log cleaner (kafka.log.LogCleaner)
 [2022-06-23 09:59:33,051] INFO [kafka-log-cleaner-thread-0]: Starting (kafka.log.LogCleaner)
+[2022-06-24 09:49:50,632] INFO Starting the log cleaner (kafka.log.LogCleaner)
+[2022-06-24 09:49:50,685] INFO [kafka-log-cleaner-thread-0]: Starting (kafka.log.LogCleaner)
+[2022-06-24 10:35:49,706] INFO Starting the log cleaner (kafka.log.LogCleaner)
+[2022-06-24 10:35:49,760] INFO [kafka-log-cleaner-thread-0]: Starting (kafka.log.LogCleaner)
