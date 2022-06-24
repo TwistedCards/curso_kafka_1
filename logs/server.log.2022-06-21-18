@@ -1,0 +1,5 @@
+[2022-06-21 18:04:56,044] INFO Processed session termination for sessionid: 0x1000001aa5e0001 (org.apache.zookeeper.server.PrepRequestProcessor)
+[2022-06-21 18:05:04,198] INFO Expiring session 0x1000001aa5e0001, timeout of 6000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2022-06-21 18:04:58,832] WARN Unable to read additional data from client sessionid 0x1000001aa5e0001, likely client has closed socket (org.apache.zookeeper.server.NIOServerCnxn)
+[2022-06-21 18:05:31,278] INFO Processed session termination for sessionid: 0x1000001aa5e0001 (org.apache.zookeeper.server.PrepRequestProcessor)
+[2022-06-21 18:05:31,280] INFO Closed socket connection for client /0:0:0:0:0:0:0:1:52136 which had sessionid 0x1000001aa5e0001 (org.apache.zookeeper.server.NIOServerCnxn)
